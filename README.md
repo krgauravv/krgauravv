@@ -7,11 +7,20 @@ A passionate Computer Science undergrad from KIIT (Bhubaneswar), curious about b
 ## 🧰 Tech Stack
 - 💻 Languages: C++, JavaScript, Java, Python, C, SQL
 - 🌐 Web Dev: HTML5, CSS3, Bootstrap, Tailwind CSS, React, Express.js, Node.js
-- 🔧 Tools & Platforms: Git, GitHub, VS Code, REST APIs, PyCharm
+- 🔧 Tools & Platforms: Git, GitHub, VS Code, REST APIs, PyCharm, RabbitMQ, MySQL
 
 ---
 
 ## 📌 Notable Projects
+
+### 🔹 [Notification Service](https://github.com/krgauravv/notification-service)
+Backend notification system built with Node.js, Express.js, and RabbitMQ  
+> 📧 Supports Email (via Nodemailer), SMS (simulated), and In-App delivery  
+> ⚡ Processes 100+ requests/min with <1s average email dispatch time  
+> 🔒 Secured with JWT authentication & retry logic for reliability  
+Live: [notification-service-v3ro.onrender.com](https://notification-service-v3ro.onrender.com)
+
+---
 
 ### 🔹 [Weather Forecast App](https://github.com/krgauravv/weatherapp)
 Built using React, OpenWeather API & Material-UI  
@@ -37,6 +46,7 @@ Live: [password-generator-system-kappa.vercel.app](https://password-generator-sy
 - 📈 Max LeetCode rating: **1463**
 - 🧠 Completed “DSA in Java” by Apna College
 - 🎖️ 100 Days LeetCode Badge
+- 🔄 **Merged Pull Requests:** <!-- PR_MERGED_COUNT:START -->0<!-- PR_MERGED_COUNT:END -->
 
 ---
 
