@@ -46,7 +46,7 @@ Live: [password-generator-system-kappa.vercel.app](https://password-generator-sy
 - 📈 Max LeetCode rating: **1463**
 - 🧠 Completed “DSA in Java” by Apna College
 - 🎖️ 100 Days LeetCode Badge
-- 🔄 **Merged Pull Requests:** <!-- PR_MERGED_COUNT:START -->0<!-- PR_MERGED_COUNT:END -->
+- 🔄 **Merged Pull Requests:** <!-- PR_MERGED_COUNT:START -->1<!-- PR_MERGED_COUNT:END -->
 
 ---
 
